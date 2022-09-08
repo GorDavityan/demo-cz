@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.0.1](https://github.com/GorDavityan/demo-cz/compare/v3.0.0...v3.0.1) (2022-09-08)
+
+
+### Bug Fixes
+
+* **test:** test for pipline ([fb1cb67](https://github.com/GorDavityan/demo-cz/commit/fb1cb67565e6f587f46d8dfa494b494c3be41e84))
+
 ## [3.0.0](https://github.com/GorDavityan/demo-cz/compare/v2.0.4...v3.0.0) (2022-09-08)
 
 
