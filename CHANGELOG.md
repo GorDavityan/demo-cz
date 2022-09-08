@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.0.0](https://github.com/GorDavityan/demo-cz/compare/v2.0.4...v3.0.0) (2022-09-08)
+
+
+### ⚠ BREAKING CHANGES
+
+* **fsd:** sdfvgnhnhgfd
+
+sdsf
+
+* **fsd:** dfsadfg ([b44fd46](https://github.com/GorDavityan/demo-cz/commit/b44fd46aff3bf30dbca2c2430ca8d16038b4d293))
+
 ### [2.0.4](https://github.com/GorDavityan/demo-cz/compare/v2.0.3...v2.0.4) (2022-09-08)
 
 ### [2.0.3](https://github.com/GorDavityan/demo-cz/compare/v2.0.2...v2.0.3) (2022-09-08)
