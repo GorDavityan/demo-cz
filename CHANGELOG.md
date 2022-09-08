@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/GorDavityan/demo-cz/compare/v1.1.0...v2.0.0) (2022-09-08)
+
+
+### ⚠ BREAKING CHANGES
+
+* **major chnage:** it will brake the whole application
+
+the issue of number 12344
+
+* **major chnage:** trying the braking change ([1ca77c0](https://github.com/GorDavityan/demo-cz/commit/1ca77c06353a1c148e4aa15886aa5b5b318d59bb))
+
 ## [1.1.0](https://github.com/GorDavityan/demo-cz/compare/v1.0.2...v1.1.0) (2022-09-08)
 
 
