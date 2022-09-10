@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.4.0](https://github.com/GorDavityan/demo-cz/compare/v3.3.2...v3.4.0) (2022-09-10)
+
+
+### Features
+
+* **test6:** [ci skip] dfghj ([480490d](https://github.com/GorDavityan/demo-cz/commit/480490d81d0b84b89db95f5e27f9040accfa122d))
+
 ### [3.3.2](https://github.com/GorDavityan/demo-cz/compare/v3.3.1...v3.3.2) (2022-09-10)
 
 ### [3.3.1](https://github.com/GorDavityan/demo-cz/compare/v3.3.0...v3.3.1) (2022-09-10)
